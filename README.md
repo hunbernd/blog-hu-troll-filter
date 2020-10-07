@@ -1,2 +1,2 @@
-# blog-hu-troll-filter
-Eltűnteti a trollokat a blog.hu-ról
+# blog.hu troll filter
+User script, ami eltűnteti a trollokat a blog.hu-ról
